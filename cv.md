@@ -1,5 +1,7 @@
 # **ANDRII KLEKOT**
 
+![name](/image.jpg)
+
 ## Contact Information:
 
 * E-mail: klekit72@gmail.com

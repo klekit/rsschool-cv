@@ -2,21 +2,63 @@
   box-sizing: border-box;
 }
 html {
-   scroll-behavior: smooth;
+  scroll-behavior: smooth;
   background-color: rgb(250, 241, 207);
 }
 body {
-
-
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin: 20px;
+  margin: 0px;
   padding: 0px;
+  min-height: 100vh;
   font-family: "Spline Sans", sans-serif;
   font-size: 16px;
 }
 .nav-list {
   display: flex;
   justify-content: space-between;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+img {
+  width: 15%;
+  height: 15%;
+  margin: 20px;
+}
+.container-footer {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 30px;
+}
+.year {
+  background: rgb(240, 224, 159);
+  display: flex;
+  flex: 0.3;
+}
+.login {
+  background: rgb(240, 224, 159);
+  display: flex;
+  flex: 0.3;
+}
+.href {
+  background: rgb(240, 224, 159);
+  display: flex;
+  flex: 0.5;
+}
+.rss {
+  width: 78px;
+  height: 28px;
+  background: rgb(240, 224, 159);
+  background-image: url("./assets/img/rs_school_js.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.container > div {
+  font-size: 2vw;
+  padding: 0.5em;
+  color: white;
 }

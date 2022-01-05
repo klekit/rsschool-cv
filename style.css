@@ -1,3 +1,18 @@
 * {
-  color: aliceblue;
+  box-sizing: border-box;
+}
+html {
+   scroll-behavior: smooth;
+  background-color: rgb(250, 241, 207);
+}
+body {
+
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 20px;
+  padding: 0px;
+  font-family: "Spline Sans", sans-serif;
+  font-size: 16px;
 }

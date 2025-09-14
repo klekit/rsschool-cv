@@ -4,9 +4,9 @@
 
 ## Contact Information:
 
-* E-mail: klekit72@gmail.com
-* Discord: Andrii Klekot(@klekit)
-* Tel: +380973812951
+- E-mail: klekit72@gmail.com
+- Discord: Andrii Klekot(@klekit)
+- Tel: +380973812951
 
 ## Brief information about yourself
 
@@ -14,10 +14,10 @@ I am 53 years old. A historian by education, I work as a research fellow of a mu
 
 ## Skills and Proficiency:
 
-* HTML5 Basics
-* JavaScript Basics
-* Git, GitHub
-* VS Code
+- HTML5 Basics
+- JavaScript Basics
+- Git, GitHub
+- VS Code
 
 ## Code example:
 
@@ -38,14 +38,15 @@ const quarterOf = (month) => {
 }
 }
 ```
+
 ## Work experience:
+
 No work experience yet
 
 ## Education and courses:
 
-* RS Schools Course В«JavaScript/Front-end. Stage 0В» (in progress)
+- RS Schools Course В«JavaScript/Front-end. Stage 1» (in progress)
 
 ## Language:
 
 English level - A1
-
